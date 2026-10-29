@@ -30,10 +30,3 @@ City-wise performance
 📂 Files Included:
 .pbix file (Power BI report)
 
-Sample datasets (if available)
-
-Screenshots of the dashboard (optional)
-
-README with project summary
-
-
